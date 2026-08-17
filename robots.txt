@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://news-argig4.indocuan-vip.sbs/sitemap.xml
